@@ -1,4 +1,4 @@
-# RHCSA 120-Day Learning Path - Day by Day
+# RHCSA 220-Day Learning Path - Day by Day
 
 ## RHCSA-124 (Days 1-120)
 
